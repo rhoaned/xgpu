@@ -1,7 +1,7 @@
 # XENBLOCKS - Effortless GPU Mining on VAST.AI 
 URL: [Vast.ai](https://cloud.vast.ai/?ref_id=87911)
 
-
+#copy
 
 **Create a Github account and fork this repository**:
 
